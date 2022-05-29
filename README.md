@@ -33,3 +33,25 @@
  <img align="center" alt="Visual_Studio_Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
  </div><br/>
 
+ function snakeMove() {
+  let next
+  let last = snake[snake.length - 1]
+  // set new snake head by direction
+  switch (direction) {
+    case "up": {
+      next = [last[0], last[1] - 1]
+      break
+    }
+    case "down": {
+      next = [last[0], last[1] + 1]
+      break
+    }
+    case "left": {
+      next = [last[0] - 1, last[1]]
+      break
+    }
+    case "right": {
+      next = [last[0] + 1, last[1]]
+      break
+    }
+  }
