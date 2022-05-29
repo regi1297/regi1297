@@ -36,5 +36,5 @@
  
  ## Assista meu gráfico de contribuição 🐍
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
-![regi1297 snake gif](https://github.com/regi1297/regi1297/blob/output/github-contribution-grid-snake.svg)      
+![snake gif](https://github.com/regi1297/regi1297/blob/output/github-contribution-grid-snake.svg)      
      
