@@ -38,12 +38,3 @@
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
 ![regi1297 snake gif](https://github.com/regi1297/regi1297/blob/output/github-contribution-grid-snake.svg)      
      
-<p align="center">
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)    
-     
-<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=regi1297&theme=highcontrast&background=0F0943)](https://git.io/streak-stats) -->  
-      
-<p align="center">     
-<!--[regi1297 skyline gif]   get yours from here: https://skyline.github.com/    -->
-<img src="https://github.com/regi1297/regi1297/blob/master/.github/workflows/Skyline%202021.gif" height="350" width="800">     
-        
