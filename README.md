@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Reginaldo Miranda 🖐️
 
-[![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ReginaldoMiranda)
+[![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reginaldo-miranda-837b0828)
 
 ![regi1297 GitHub stats](https://github-readme-stats.vercel.app/api?username=regi1297&show_icons=true&theme=dracula&count_private=true)
 
