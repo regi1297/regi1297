@@ -1,13 +1,21 @@
 ## Olá! Eu sou o Reginaldo Miranda 🖐️
 
+- 🌱 Estudante - Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (6/6)
+
+- 🔭 Apaixonado por tecnologia
+
+- 📫 contacte-me no email: reginald_miranda@hotmail.com
+ 
+ 
 [![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reginaldo-miranda)
 
+  
 <div style="display: inline_block"><br/>
 <div style="display: inline_block">
   <a href="https://github.com/regi1297">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=regi1297&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regi1297&layout=compact&langs_count=7&theme=cobalt"/>
-</div><br/>
+  </div><br/>
 
 ## Tecnologias que eu uso no meu dia
 
@@ -29,5 +37,8 @@
   <img align="center" alt="Visual_Studio_Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
  </div><br/>
 
-- 🔭 Apaixonado por tecnologia
-- 🌱 Estudante - Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (6/6)
+<div> 
+ 
+  ![Snake animation](https://github.com/Mateus-Batista12/Mateus-Batista12/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
