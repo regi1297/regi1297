@@ -4,6 +4,7 @@
 
 ![regi1297 GitHub stats](https://github-readme-stats.vercel.app/api?username=regi1297&show_icons=true&theme=dracula&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regi1297&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tecnologias que eu uso no meu dia
