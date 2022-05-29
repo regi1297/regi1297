@@ -12,7 +12,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=regi1297&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regi1297&layout=compact&langs_count=7&theme=cobalt"/>
   </div><br/>
+ 
 ## Tecnologias que eu uso no meu dia
+ 
 <div style="display: inline_block"><br/>
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
