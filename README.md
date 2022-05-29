@@ -32,8 +32,3 @@
  <img align="center" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
  <img align="center" alt="Visual_Studio_Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
  </div><br/>
-
- 
-## Assista meu gráfico de contribuição 🐍
-![snake gif](https://github.com/regi1297/regi1297/blob/output/github-contribution-grid-snake.svg)      
-     
