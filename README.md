@@ -3,9 +3,11 @@
 - 🔭 Apaixonado por tecnologia
 - 📫 contacte-me no email: reginald_miranda@hotmail.com
  
- 
-[![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reginaldo-miranda)
-
+<div style="display: inline_block"><br/>
+<div style="display: inline_block"> 
+<a href="https://www.linkedin.com/in/reginaldo-miranda" target="_blank">
+<img class="is-rounded" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
+</div><br/>
   
 <div style="display: inline_block"><br/>
 <div style="display: inline_block">
