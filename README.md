@@ -14,8 +14,10 @@
   <a href="https://github.com/regi1297">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=regi1297&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regi1297&layout=compact&langs_count=7&theme=cobalt"/>
-  </div><br/>
+  
+  ![Reginado Miranda's github activity graph](https://activity-graph.herokuapp.com/graph?username=regi1297&show_icons=true&&bg_color=373f51&color=eaceb1&line=d8785f&point=ecad49&area=true&hide_border=falso)
  
+   
 ## Tecnologias que eu uso no meu dia
  
 <div style="display: inline_block"><br/>
