@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Reginaldo Miranda 🖐️
-- 🌱 Estudante - Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (6/6)
+- 🌱 Formado - Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
 - 🔭 Apaixonado por tecnologia
 - 📫 contacte-me no email: reginald_miranda@hotmail.com
  
