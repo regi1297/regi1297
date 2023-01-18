@@ -50,6 +50,5 @@
  <img align="center" alt="BULMA" src="https://bulma.io/images/bulma-logo.png"  width="90" height="28"/>
  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
  <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
- <img align="center" alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
- 	
+  	
 </div><br/>
