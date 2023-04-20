@@ -15,10 +15,8 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=regi1297&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regi1297&layout=compact&langs_count=7&theme=dracula"/>
     
-  ![Reginado Miranda's github activity graph](https://activity-graph.herokuapp.com/graph?username=regi1297&show_icons=true&bg_color=193549&color=e580ff&line=40ff00&point=ecad49&area=true&hide_border=falso)
-  
-  ![Snake animation](https://github.com/regi1297/regi1297/blob/output/github-contribution-grid-snake.svg)
- 
+
+   
    
 ## Tecnologias que eu uso no meu dia
  
