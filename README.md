@@ -12,8 +12,8 @@
 <div style="display: inline_block"><br/>
 <div style="display: inline_block">
   <a href="https://github.com/regi1297">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=regi1297&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regi1297&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=regi1297&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regi1297&layout=compact&langs_count=7&theme=dracula"/>
     
 
    
