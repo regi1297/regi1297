@@ -57,4 +57,5 @@
 <a href="https://www.linkedin.com/in/reginaldo-miranda" target="_blank">
 <img class="is-rounded" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
 - 📫 contacte-me no email: reginald_miranda@hotmail.com
+</a>
 </div><br/>
