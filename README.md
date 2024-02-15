@@ -52,7 +52,7 @@
  <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   	
 </div><br/>
-[![Top Langs](https://github-readme-stats.vercel.app
+
 <div style="display: inline_block"><br/>
 <div style="display: inline_block"> 
 <a href="https://www.linkedin.com/in/reginaldo-miranda" target="_blank">
