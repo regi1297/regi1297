@@ -4,7 +4,7 @@
 
 <div style="display: inline_block"><br/>
 <div style="display: inline_block">
-<img align="center" alt="AI" src="https://miro.medium.com/v2/resize:fit:572/1*uzVtquVT0jGfbNAf7Qc1UQ.gif" width="700" height="100"/>
+<img align="center" alt="AI" src="https://miro.medium.com/v2/resize:fit:572/1*uzVtquVT0jGfbNAf7Qc1UQ.gif" width="750" height="200"/>
 </div><br/>
  
   
