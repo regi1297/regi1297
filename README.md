@@ -53,10 +53,16 @@
   	
 </div><br/>
 
+## Contatos
+
+- 📫 contacte-me no email: reginald_miranda@hotmail.com
 <div style="display: inline_block"><br/>
 <div style="display: inline_block"> 
 <a href="https://www.linkedin.com/in/reginaldo-miranda" target="_blank">
 <img class="is-rounded" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
-- 📫 contacte-me no email: reginald_miranda@hotmail.com
-</a>
+</div><br/>
+
+<div style="display: inline_block"><br/>
+<div style="display: inline_block">
+<img align="center" alt="AI" src="https://miro.medium.com/v2/resize:fit:572/1*uzVtquVT0jGfbNAf7Qc1UQ.gif" />
 </div><br/>
